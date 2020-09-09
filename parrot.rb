@@ -5,7 +5,3 @@ def parrot(name)
   puts "Squawk!"
   "Squawk!"
 end
-
-parrot
-parrot("Squawk!")
-parrot("Pretty bird!")
